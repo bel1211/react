@@ -1,0 +1,53 @@
+.Cartao{
+    width: 30%;
+    height: 250px;
+    background-color: #f1f1f1;
+    position: relative;
+    margin-left: 20%;
+    background:linear-gradient(to right, #030E17  , #1860A1);
+    border-radius: 15px;
+    float: left;
+
+}
+
+.chips{
+    margin-left: 10%;
+    margin-top: 12%;
+    position: absolute;
+}
+
+.chip{
+    width: 55%;
+}
+
+.Logo{
+    margin-left: 10%;
+    margin-top: 3%;
+    position: absolute;
+}
+
+.Logo_img{
+    width: 23%;
+    margin-left: 290px;
+}
+
+
+.aproximacao{
+    margin-left: 10%;
+    margin-top: 3%;
+    position: absolute;
+}
+
+.aproximacao_img{
+    width: 70%;
+    margin-left: 62%;
+    margin-top: 46%;
+}
+
+h3{
+    position: absolute;
+    color: #f1f1f1;
+    margin-top: 42%;
+    margin-left: 10%;
+}
+

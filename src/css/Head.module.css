@@ -1,0 +1,21 @@
+
+
+.content{
+
+    width: 20%;
+    height: 50%;
+    font-size: 18px;
+    float: left;
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+
+ }
+ .Logo{
+
+    margin-left: 10%;
+    width:50%;
+
+
+}
+

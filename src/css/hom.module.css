@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(to right, #001895  , #00F0FF);
+    width: 100%;
+  }
+
+.jeito{
+  
+    padding-top: 11%;
+    padding-left: 1%;
+    color: #f1f1f1;
+    float: left;
+  
+}
+
+.test{
+  width: 20%;
+  height: 50%;
+  margin-left: 85%;
+
+  position: relative;
+
+}

@@ -1,0 +1,182 @@
+body{
+    width: 100%;
+    height: auto;
+}
+
+
+.noms{
+   padding: 0%;
+   padding-left: 2%;
+   padding: 2%;
+   color:#f1f1f1;
+
+}
+
+p{
+    color: #f1f1f1;
+    margin-left: 2%;
+    float: left;
+  
+}
+
+a{
+    color: #f1f1f1;
+}
+
+.valor{
+    width: 7%;
+    border-radius: 5%;
+    background-color: #f1f1f1;
+    margin-left: 6%;
+    margin-top: 39px;
+    
+   
+}
+
+.meio{
+    width: 100%;
+    height: 80px;
+    margin-top: 2%;
+    background-color: #f3f3f3;
+    padding-top: 1%;
+    
+}
+
+.button{
+    border-radius: 100%;
+    float: left;
+    height: 50px;
+    width:90px;
+    background: #379cd3;
+    margin-left: 3%;
+    color:#f1f1f1;
+}
+
+.cartoes{
+    background-color: #f1f1f1;
+    margin-top: 3%;
+    width: 15%;
+    height: 50px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 20px;
+}
+
+.imcartoes{
+    width: 100%;
+    background-color: #f1f1f1;
+    margin-top: 3%;
+    height: 270px;
+    padding-top: 1%;
+   
+    float:left;
+  
+}
+
+.Descubramais{
+    background-color: #f1f1f1;
+    width: 15%;
+    height: 50px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-top: 1%;
+    font-size: 20px;
+    margin-top: 25%;
+    text-align:center;
+}
+
+.tds{
+    width: 100%;
+    height: 250px;
+    background-color: #f1f1f1;
+    margin-top: 3%;
+    display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+    margin-bottom: 10%;
+}
+
+.casa{
+    width: 100%;
+     height: 440px; 
+     font-family: 'Montserrat'; 
+  float: left; 
+  margin-top: 3%;
+}
+
+.dicas{
+    margin-top: 35px;
+     color: #E1E1E6;
+      margin-left: 20px; 
+      height: 7px; 
+    }
+
+.notice{
+    width: 100%;
+     height: 380px;  
+ display: flex;
+  flex-direction: row;
+   justify-content: space-around;
+    align-items: center;
+}
+
+.campoum, .campodois, .campotres{
+    background-color: beige;
+     width: 32%; height: 320px;
+      border-radius: 10px;
+    }
+
+.campoum img{
+    width: 100%;
+     height: 100%;
+     border-radius: 9px; 
+     float: left;
+    }
+
+.campodois img{
+    width: 100%;
+    height: 100%;
+    border-radius: 9px;
+     float: left;
+    }
+
+.campotres img{
+    width: 100%;
+    height: 100%; 
+    border-radius: 9px;
+    float: left;}
+
+.tnegum, .tnegdois, .tnegtres{
+    width: 60%; 
+    font-weight: 600; 
+    background-color: rgba(0, 0, 0, 0.332);
+    margin-left: 15%; 
+    padding: 15px; }
+
+
+.cont{
+    color: black;
+    margin-left: 30%;
+    margin-top: 1%;
+    float: left;
+ 
+   
+   
+}
+
+.teste1{
+    width: 22.7%;
+    margin-left: 80%;
+   position: absolute;
+    
+}
+
+.cont2{
+    color: black;
+    margin-left: 7%;
+    margin-top: 1%;
+    float: left;
+   
+   
+}
+
